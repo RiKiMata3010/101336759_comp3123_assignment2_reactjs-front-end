@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('reactbg.png');
+  color: white;
+}
+.Whole{
+  background-image: url('reactbg.png');
+  background-size: cover;
+}
+
+input, button {
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+  margin: 5px;
+}
+.employee {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: antiquewhite;
+  color: black;
+}
